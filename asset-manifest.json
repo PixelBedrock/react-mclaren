@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63dc2243.css",
+    "main.js": "/static/js/main.c26f8005.js",
+    "static/media/cne24942-wide.jpg": "/static/media/cne24942-wide.8c951c7102e4b7f65078.jpg",
+    "static/media/mclaren.svg": "/static/media/mclaren.aa9359217cb434a2e06dc891d8cfc1f7.svg",
+    "index.html": "/index.html",
+    "static/media/icon-arrow-tr.svg": "/static/media/icon-arrow-tr.221f0d5ee83efdec2bd8f305c25b3862.svg",
+    "main.63dc2243.css.map": "/static/css/main.63dc2243.css.map",
+    "main.c26f8005.js.map": "/static/js/main.c26f8005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63dc2243.css",
+    "static/js/main.c26f8005.js"
+  ]
+}
